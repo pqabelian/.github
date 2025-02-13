@@ -42,7 +42,7 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
 
 
-# Popularity
+# Contribuction activity
 
 ## Star Growth
 
@@ -59,32 +59,21 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
  [![Geographical Distribution of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?owner_id=135774954&period=past_28_days&activity=stars&role=pr_creators&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-map?owner_id=135774954&period=past_28_days&activity=stars&role=pr_creators)
 
-# Participant
 
-## Engagement
+## Participant Engagement
 
  [![Active repos of pqabelian](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?owner_id=135774954&activity=repos&period=past_28_days&image_size=4x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?owner_id=135774954&activity=repos&period=past_28_days)
 
-<!---->
-
-# Productivity
 
 ## Pull Request
 
-<!---->
+ [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
 
- [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=135774954&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
-  
-  
+
 ## Code Submission
 
  [![Ranking of repos with the commit code changes in pingcap](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=135774954&period=past_28_days)
 
 <!---->
-
- [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
-
-<!---->
-
 
 
