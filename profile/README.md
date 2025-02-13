@@ -44,6 +44,14 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
 # Contribuction activity
 
+## Pull Request
+
+ [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
+
+<!---->
+
+ [![When Do Participants Prefer to Submit Code?](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?owner_id=135774954&period=past_28_days&zone=0&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution?owner_id=135774954&period=past_28_days&zone=0)
+
 ## Star Growth
 
  [![Overview of Stars earned of pingcap](https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=2x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-overview-stars?owner_id=135774954&period=past_28_days)
@@ -65,10 +73,4 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
  [![Active repos of pqabelian](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?owner_id=135774954&activity=repos&period=past_28_days&image_size=4x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?owner_id=135774954&activity=repos&period=past_28_days)
 
 
-## Pull Request
 
- [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
-
-<!---->
-
- [![When Do Participants Prefer to Submit Code?](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?owner_id=135774954&period=past_28_days&zone=0&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution?owner_id=135774954&period=past_28_days&zone=0)
