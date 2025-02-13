@@ -16,12 +16,13 @@ Abelian is a post-quantum privacy-preserving Blockchain network, which adopts th
 Quantum-Resistant and Privacy Preserving Security for Future-Proof Blockchains
 
 Abelian powers the next-generation Layer 1 blockchain, designed to protect your transactions, assets, and data against adversarial quantum attacks.
+
 Kindly check our website as link: https://community.pqabelian.io/guide/what-is-abelian.html
 
 ## 🌈 Introduction of core repsoistory
 
-| Items | Repository | Description | Language |
-| ------ | --------------------- | ---------------------------------------------- | ------ |
+| Items | Repository                           | Description                             | Language |
+| ---- | ------------------------------------- | --------------------------------------- | ------ |
 | 1 | abec | a full node running 24x7 communicating with other full node peers for forming the global Abelian network | 	Go |  
 | 2 | abelian-aip11-go | The AIP11 library for Go | 	Go| 
 | 3 | abelian-community-website | Frequently Asked Questions from Abelian Communities |  | 
@@ -42,7 +43,7 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
 
 
-# 🧙Contribuction activity
+# 🧙 Contribuction Activity
 
 ## Pull Request
 
