@@ -31,7 +31,7 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 ## Activity Stream
  [![Active Contributors of pingcap/tidb - Last 28 days](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=30&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=41986369&limit=30)
 
-
+ [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=11855343&period=past_28_days&activity=pull-requests)
 
 # Productivity
 ## Pull Request
