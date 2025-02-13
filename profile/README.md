@@ -26,13 +26,17 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 ## Star Growth
  [![Overview of Stars earned of pingcap](https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=2x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-overview-stars?owner_id=135774954&period=past_28_days)
 
+<!---->
+
  [![Stars trends of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total/thumbnail.png?owner_id=135774954&activity=stars&period=past_28_days&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total?owner_id=135774954&activity=stars&period=past_28_days)
 
 <!---->
  [![Top repos by stars of pingcap](https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=4x5&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos?owner_id=135774954&period=past_28_days)
 
 <!---->
+
  [![Geographical Distribution of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?owner_id=135774954&period=past_28_days&activity=stars&role=pr_creators&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-map?owner_id=135774954&period=past_28_days&activity=stars&role=pr_creators)
+
 # Participant
 
 ## Engagement
@@ -51,14 +55,10 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 # Productivity
 
 ## Pull Request
+
  [![When Do Participants Prefer to Submit Code?](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?owner_id=135774954&period=past_28_days&zone=0&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution?owner_id=135774954&period=past_28_days&zone=0)
 
 <!---->
-
- [![[Overview] pull-requests of pingcap](https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?owner_id=135774954&activity=pull-requests&period=past_28_days&image_size=2x2&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-overview-stats?owner_id=135774954&activity=pull-requests&period=past_28_days)
-
-<!---->
- [![[Overview] pull-requests of pingcap](https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?owner_id=135774954&activity=pull-requests&period=past_28_days&image_size=3x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-overview-stats?owner_id=135774954&activity=pull-requests&period=past_28_days)
 
  
 ## Code Review
@@ -66,6 +66,7 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
  [![Count of Pull Request Review Over Time](https://next.ossinsight.io/widgets/official/analyze-org-recent-pr-review-stats/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-recent-pr-review-stats?owner_id=135774954&period=past_28_days)
   
 ## Code Submission
+
  [![Ranking of repos with the commit code changes in pingcap](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=135774954&period=past_28_days)
 
 <!---->
@@ -77,5 +78,4 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
  [![Ranking of repos with the commit code changes in pingcap](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=6x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=135774954&period=past_28_days)
 
-<!---->
- ![[Overview] pull-requests of pqabelian](https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?owner_id=135774954&activity=pull-requests&period=past_28_days&image_size=3x3&color_scheme=light)
+
