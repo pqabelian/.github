@@ -13,8 +13,6 @@
 
 Abelian is a post-quantum privacy-preserving Blockchain network, which adopts the NIST standardized lattice-based cryptography, and is cryptographically proven secure. Its cryptocurrency ABEL is anonymous and untraceable.
 
-Quantum-Resistant and Privacy Preserving Security for Future-Proof Blockchains
-
 Abelian powers the next-generation Layer 1 blockchain, designed to protect your transactions, assets, and data against adversarial quantum attacks.
 
 Kindly check our website as link: https://community.pqabelian.io/guide/what-is-abelian.html
