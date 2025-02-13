@@ -33,27 +33,38 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 # Participant
 
 ## Engagement
- [![Active trends of pingcap](https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=135774954&activity=active&period=past_28_days&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=135774954&activity=active&period=past_28_days)
 
   [![Active repos of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?owner_id=135774954&activity=repos&period=past_28_days&image_size=4x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?owner_id=135774954&activity=repos&period=past_28_days)
 
- [![Active repos of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?owner_id=135774954&activity=repos&period=past_28_days&image_size=4x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?owner_id=135774954&activity=repos&period=past_28_days)
 
  ### Active participants
 
- [![Active participants of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?owner_id=135774954&activity=participants&period=past_28_days&image_size=4x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking?owner_id=135774954&activity=participants&period=past_28_days)
+ [![Active trends of pingcap](https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=135774954&activity=active&period=past_28_days&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=135774954&activity=active&period=past_28_days)
 
+ [![Active participants of pingcap - past 28 days](https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?owner_id=135774954&period=past_28_days&activity=active&image_size=2x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-active-contributors?owner_id=135774954&period=past_28_days&activity=active)
 ## Origins
 
 ## Activity Stream
 
- 
- [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
+
 
 # Productivity
 
 
 ## Pull Request
+ [![When Do Participants Prefer to Submit Code?](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?owner_id=135774954&period=past_28_days&zone=0&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution?owner_id=135774954&period=past_28_days&zone=0)
+
+
+
 ## Code Review
+
+  [![Count of Pull Request Review Over Time](https://next.ossinsight.io/widgets/official/analyze-org-recent-pr-review-stats/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-recent-pr-review-stats?owner_id=135774954&period=past_28_days)
+  
 ## Code Submission
  [![Ranking of repos with the commit code changes in pingcap](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=135774954&period=past_28_days)
+
+
+ [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
+
+
+  [![Which Repositories Are Actively Engaged in Issue Discussions?](https://next.ossinsight.io/widgets/official/analyze-org-activity-action-top-repos/thumbnail.png?owner_id=135774954&activity=issues%2Fissue-comments&period=past_28_days&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-action-top-repos?owner_id=135774954&activity=issues%2Fissue-comments&period=past_28_days)
