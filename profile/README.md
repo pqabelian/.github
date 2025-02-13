@@ -17,14 +17,14 @@ Abelian powers the next-generation Layer 1 blockchain, designed to protect your 
 
 Kindly check our website as link: https://community.pqabelian.io/guide/what-is-abelian.html
 
-## 🌈 Introduction of core repsoistory
+## 🌈 Introduction to the core repository
 
 | Items | Repository                           | Description                             | Language |
 | ---- | ------------------------------------- | --------------------------------------- | ------ |
 | 1 | abec | A full node running 24x7 communicating with other full node peers for forming the global Abelian network | Go |  
 | 2 | abelian-aip11-go | The AIP11 library for Go.This file contains: Test cases: Functions starting with Test and Usage examples: Functions starting with Example | Go| 
 | 3 | abelian-community-website | Frequently Asked Questions from Abelian Communities |  | 
-| 4 | abelian-lib-abelethash | A fork of the C/C++ implementation of Ethash – the Ethereum Proof of Work algorithm (Ethash Copyright 2018 Pawel Bylica. Ethash is licensed under the Apache License, Version 2.0.). Ethash Github Source Code | C+++ | 
+| 4 | abelian-lib-abelethash | A fork of the C/C++ implementation of Ethash – the Ethereum Proof of Work algorithm (Ethash Copyright 2018 Pawel Bylica. Ethash is licensed under the Apache License, Version 2.0.). Ethash Github Source Code | C++ | 
 | 5 | abelian-miner-gpu | The official GPU mining client for the Abelian Blockchain. | C+++ | 
 | 6 | abelian-sdk-go | A Go library that allows developers to interact with the Abelian blockchain. It provides low-level APIs to interact with the Abelian blockchain including creating keys and addresses, querying blockchain data, decoding privacy-protected data, building transactions, signing transactions and sending transactions. | Go | 
 | 7 | abelian-sdk-go-demo | A Demo Application of the Abelian Go SDK. It demonstrates how to use the Abelian Go SDK to implement common blockchain operations such as generating addresses, tracking coins, and making transactions. | Go | 
@@ -41,11 +41,11 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
 
 
-# 🧙 Contribuction Activity
+# 🧙 Contribution Activity
 
 ## Pull Request
 
- [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
+ [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=135774954&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
 
 <!---->
 
