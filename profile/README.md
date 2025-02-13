@@ -20,6 +20,27 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
 ## Introduction of different repsoistory --> 和Github Repository 功能重复了 
 
+| Repository | Description | Language |
+| ------------- | ------------------------------ | ------ |
+| abec |  | 	Go |  
+| abelian-aip11-go | The AIP11 library for Go | 	Go| 
+| abelian-community-website | Frequently Asked Questions from Abelian Communities |  | 
+| abelian-lib-abelethash |  | C+++ | 
+| abelian-miner-gpu | 	The official GPU mining client for the Abelian Blockchain. | 	C+++ | 
+| abelian-sdk-go | 	The Go SDK for the Abelian Blockchain	Go |  | 
+| abelian-sdk-go-demo | 	A Demo Application of the Abelian Go SDK | 	Go | 
+| abelian-sdk-java | 	The Java SDK for the Abelian Blockchain | 	Java | 
+| abelian-sdk-go-lib | 	The C Library of the Abelian Go SDK | 	Go | 
+| abelian-sdk-go-lib-v2 | 	The C Library of the Abelian Go SDK v2 | 	Go | 
+| abelian-sdk-go-v2 |   |	Go | 
+| abelian-sdk-java-v2 | 	The Java SDK v2 for the Abelian Blockchain | 	Java | 
+| abeutil |   | 	Go | 
+| abewallet |   | Go | 
+| aips | Abelian Improvement Proposals |   | 	 
+| pqringct |   | Go | 
+| pqringctx |   | Go | 
+
+
 
 # Popularity
 
@@ -54,9 +75,6 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 # Productivity
 
 ## Pull Request
-
- [![When Do Participants Prefer to Submit Code?](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?owner_id=135774954&period=past_28_days&zone=0&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution?owner_id=135774954&period=past_28_days&zone=0)
-
 <!---->
 
  [![Ranking of repos with the commit code changes in pingcap](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=135774954&period=past_28_days)
@@ -65,9 +83,6 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
  [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=135774954&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
   
-## Code Review
-
- [![Count of Pull Request Review Over Time](https://next.ossinsight.io/widgets/official/analyze-org-recent-pr-review-stats/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-recent-pr-review-stats?owner_id=135774954&period=past_28_days)
   
 ## Code Submission
 
@@ -76,7 +91,6 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 <!---->
 
  [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
-
 
 <!---->
 
