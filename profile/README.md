@@ -52,6 +52,10 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
  [![When Do Participants Prefer to Submit Code?](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?owner_id=135774954&period=past_28_days&zone=0&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution?owner_id=135774954&period=past_28_days&zone=0)
 
+<!---->
+
+ [![Active trends of pingcap](https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=135774954&activity=active&period=past_28_days&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=135774954&activity=active&period=past_28_days)
+
 ## Star Growth
 
  [![Overview of Stars earned of pingcap](https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=2x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-overview-stars?owner_id=135774954&period=past_28_days)
