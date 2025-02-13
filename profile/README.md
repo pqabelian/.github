@@ -25,7 +25,7 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 | 2 | abelian-aip11-go | The AIP11 library for Go.This file contains: Test cases: Functions starting with Test and Usage examples: Functions starting with Example | Go| 
 | 3 | abelian-community-website | Frequently Asked Questions from Abelian Communities |  | 
 | 4 | abelian-lib-abelethash | A fork of the C/C++ implementation of Ethash – the Ethereum Proof of Work algorithm (Ethash Copyright 2018 Pawel Bylica. Ethash is licensed under the Apache License, Version 2.0.). Ethash Github Source Code | C++ | 
-| 5 | abelian-miner-gpu | The official GPU mining client for the Abelian Blockchain. | C+++ | 
+| 5 | abelian-miner-gpu | The official GPU mining client for the Abelian Blockchain. | C++ | 
 | 6 | abelian-sdk-go | A Go library that allows developers to interact with the Abelian blockchain. It provides low-level APIs to interact with the Abelian blockchain including creating keys and addresses, querying blockchain data, decoding privacy-protected data, building transactions, signing transactions and sending transactions. | Go | 
 | 7 | abelian-sdk-go-demo | A Demo Application of the Abelian Go SDK. It demonstrates how to use the Abelian Go SDK to implement common blockchain operations such as generating addresses, tracking coins, and making transactions. | Go | 
 | 8 | abelian-sdk-java | A Java library that allows developers to interact with the Abelian blockchain. It provides a simple way to connect to the Abelian network, query the state of the blockchain, decode privacy-protected data of managed accounts, and send transactions. | Java | 
@@ -45,10 +45,6 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
 ## Pull Request
 
- [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=135774954&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
-
-<!---->
-
  [![When Do Participants Prefer to Submit Code?](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?owner_id=135774954&period=past_28_days&zone=0&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution?owner_id=135774954&period=past_28_days&zone=0)
 
 <!---->
@@ -56,7 +52,6 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
  [![Active trends of pingcap](https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=135774954&activity=active&period=past_28_days&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=135774954&activity=active&period=past_28_days)
 
 <!---->
-
 
 ## Star Growth
 
