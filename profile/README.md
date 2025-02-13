@@ -28,6 +28,8 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 ## Star Growth
  [![Overview of Stars earned of pingcap](https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=2x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-overview-stars?owner_id=135774954&period=past_28_days)
 
+ [![Stars trends of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total/thumbnail.png?owner_id=135774954&activity=stars&period=past_28_days&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total?owner_id=135774954&activity=stars&period=past_28_days)
+
 # Participant
 
 ## Engagement
