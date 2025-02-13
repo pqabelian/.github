@@ -78,4 +78,4 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
  [![Ranking of repos with the commit code changes in pingcap](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=6x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=135774954&period=past_28_days)
 
 <!---->
- ![[Overview] pull-requests of pingcap](https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?owner_id=135774954&activity=pull-requests&period=past_28_days&image_size=3x3&color_scheme=light)
+ ![[Overview] pull-requests of pqabelian](https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?owner_id=135774954&activity=pull-requests&period=past_28_days&image_size=3x3&color_scheme=light)
