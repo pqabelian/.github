@@ -58,7 +58,6 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
 <!---->
 
- [![Which Repository Achieves the Shortest Pull Request Completion Time?](https://next.ossinsight.io/widgets/official/compose-org-activity-open-to-first-response/thumbnail.png?owner_id=135774954&period=past_28_days&activity=pull-requests&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-open-to-first-response?owner_id=135774954&period=past_28_days&activity=pull-requests)
 
 ## Star Growth
 
@@ -80,5 +79,6 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
  [![Active repos of pqabelian](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?owner_id=135774954&activity=repos&period=past_28_days&image_size=4x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?owner_id=135774954&activity=repos&period=past_28_days)
 
+<!---->
 
-
+ [![Geographical Distribution of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?owner_id=135774954&period=past_28_days&activity=stars&role=pr_creators&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-map?owner_id=135774954&period=past_28_days&activity=stars&role=pr_creators)
