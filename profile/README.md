@@ -33,18 +33,17 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 ## Engagement
  [![Active trends of pingcap](https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=135774954&activity=active&period=past_28_days&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=135774954&activity=active&period=past_28_days)
 
- [![Active participants of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?owner_id=135774954&activity=participants&period=past_28_days&image_size=4x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking?owner_id=135774954&activity=participants&period=past_28_days)
 
-
- [![Most engaged people of pingcap](https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=5x5&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=11855343&period=past_28_days)
-
- [![Active participants of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?owner_id=135774954&activity=participants&period=past_28_days&image_size=4x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking?owner_id=135774954&activity=participants&period=past_28_days)
 
 ## Origins
 
 ## Activity Stream
  [![Active Contributors of pingcap/tidb - Last 28 days](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=135774954&limit=30&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=135774954&limit=30)
 
+
+ [![Active Contributors of pingcap/tidb - Last 28 days](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?owner_id= 135774954&limit=30&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?owner_id= 135774954&limit=30)
+
+ 
  [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
 
 # Productivity
