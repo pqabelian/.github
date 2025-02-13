@@ -9,7 +9,7 @@
  Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## 🙋‍♀️ What's PQAbelian? --> PQAbelian定义有好多版本，需要统一定义吗？
+## 🙋‍♀️ What's PQAbelian?
 
 Abelian is a post-quantum privacy-preserving Blockchain network, which adopts the NIST standardized lattice-based cryptography, and is cryptographically proven secure. Its cryptocurrency ABEL is anonymous and untraceable.
 
@@ -21,12 +21,12 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
 | Items | Repository                           | Description                             | Language |
 | ---- | ------------------------------------- | --------------------------------------- | ------ |
-| 1 | abec | a full node running 24x7 communicating with other full node peers for forming the global Abelian network | Go |  
+| 1 | abec | A full node running 24x7 communicating with other full node peers for forming the global Abelian network | Go |  
 | 2 | abelian-aip11-go | The AIP11 library for Go.This file contains: Test cases: Functions starting with Test and Usage examples: Functions starting with Example | Go| 
 | 3 | abelian-community-website | Frequently Asked Questions from Abelian Communities |  | 
 | 4 | abelian-lib-abelethash | A fork of the C/C++ implementation of Ethash – the Ethereum Proof of Work algorithm (Ethash Copyright 2018 Pawel Bylica. Ethash is licensed under the Apache License, Version 2.0.). Ethash Github Source Code | C+++ | 
 | 5 | abelian-miner-gpu | The official GPU mining client for the Abelian Blockchain. | C+++ | 
-| 6 | abelian-sdk-go | 	A Go library that allows developers to interact with the Abelian blockchain. It provides low-level APIs to interact with the Abelian blockchain including creating keys and addresses, querying blockchain data, decoding privacy-protected data, building transactions, signing transactions and sending transactions. | Go | 
+| 6 | abelian-sdk-go | A Go library that allows developers to interact with the Abelian blockchain. It provides low-level APIs to interact with the Abelian blockchain including creating keys and addresses, querying blockchain data, decoding privacy-protected data, building transactions, signing transactions and sending transactions. | Go | 
 | 7 | abelian-sdk-go-demo | A Demo Application of the Abelian Go SDK. It demonstrates how to use the Abelian Go SDK to implement common blockchain operations such as generating addresses, tracking coins, and making transactions. | Go | 
 | 8 | abelian-sdk-java | A Java library that allows developers to interact with the Abelian blockchain. It provides a simple way to connect to the Abelian network, query the state of the blockchain, decode privacy-protected data of managed accounts, and send transactions. | Java | 
 | 9 | abelian-sdk-go-lib | The C Library of the Abelian Go SDK | Go | 
