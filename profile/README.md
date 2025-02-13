@@ -21,8 +21,6 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 ## Introduction of different repsoistory --> 和Github Repository 功能重复了 
 
 
-# Overview
-
 # Popularity
 
 ## Star Growth
@@ -30,23 +28,30 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
  [![Stars trends of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total/thumbnail.png?owner_id=135774954&activity=stars&period=past_28_days&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total?owner_id=135774954&activity=stars&period=past_28_days)
 
+<!---->
+ [![Top repos by stars of pingcap](https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=4x5&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos?owner_id=135774954&period=past_28_days)
+
+<!---->
+ [![Geographical Distribution of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?owner_id=135774954&period=past_28_days&activity=stars&role=pr_creators&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-map?owner_id=135774954&period=past_28_days&activity=stars&role=pr_creators)
 # Participant
 
 ## Engagement
 
   [![Active repos of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?owner_id=135774954&activity=repos&period=past_28_days&image_size=4x3&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?owner_id=135774954&activity=repos&period=past_28_days)
 
-<!---->
- [![Top repos by stars of pingcap](https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=4x5&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos?owner_id=135774954&period=past_28_days)
 
 <!---->
  [![Active trends of pingcap](https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=135774954&activity=active&period=past_28_days&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=135774954&activity=active&period=past_28_days)
 
-<!---->
- [![Geographical Distribution of pingcap](https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?owner_id=135774954&period=past_28_days&activity=stars&role=pr_creators&image_size=4x7&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-activity-map?owner_id=135774954&period=past_28_days&activity=stars&role=pr_creators)
+
 
 <!---->
  [![Most engaged people of pingcap](https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=5x5&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=135774954&period=past_28_days)
+<!---->
+
+ [![Most engaged people of pqabelian](https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=5x5&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=135774954&period=past_28_days)
+<!---->
+ [![Most engaged people of pqabelian](https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=5x5&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=135774954&period=past_28_days)
 
 # Productivity
 
@@ -56,6 +61,10 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 <!---->
  [![[Overview] pull-requests of pingcap](https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?owner_id=135774954&activity=pull-requests&period=past_28_days&image_size=2x2&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-overview-stats?owner_id=135774954&activity=pull-requests&period=past_28_days)
 
+<!---->
+
+ [![[Overview] pull-requests of pqabelian](https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?owner_id=135774954&activity=pull-requests&period=past_28_days&image_size=2x2&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-overview-stats?owner_id=135774954&activity=pull-requests&period=past_28_days)
+ 
 ## Code Review
 
  [![Count of Pull Request Review Over Time](https://next.ossinsight.io/widgets/official/analyze-org-recent-pr-review-stats/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-recent-pr-review-stats?owner_id=135774954&period=past_28_days)
@@ -67,11 +76,10 @@ Kindly check our website as link: https://community.pqabelian.io/guide/what-is-a
 
  [![Count of Pull requests Over Time](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=135774954&period=past_28_days&activity=pull-requests)
 
-<!---->
- [![Which Repository Shows the Most Proactive Pull Request Review Responses?](https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review?owner_id=135774954&period=past_28_days)
+
 
 <!---->
  [![Ranking of repos with the commit code changes in pingcap](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=135774954&period=past_28_days&image_size=6x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=135774954&period=past_28_days)
 
 <!---->
- [![Which Repositories Are Actively Engaged in Issue Discussions?](https://next.ossinsight.io/widgets/official/analyze-org-activity-action-top-repos/thumbnail.png?owner_id=135774954&activity=issues%2Fissue-comments&period=past_28_days&image_size=3x6&color_scheme=light)](https://next.ossinsight.io/widgets/official/analyze-org-activity-action-top-repos?owner_id=135774954&activity=issues%2Fissue-comments&period=past_28_days)
+
