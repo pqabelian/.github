@@ -16,7 +16,7 @@ Abelian is a post-quantum privacy-preserving Blockchain. Its quantum-resistant s
 
 Kindly check our website as link: https://community.pqabelian.io/guide/what-is-abelian.html
 
-## 🌈 Introduction to the core repository
+## 🌈 Brief Description of Repositories
 
 | Items | Repository                           | Description                             | Language |
 | ---- | ------------------------------------- | --------------------------------------- | ------ |
